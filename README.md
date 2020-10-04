@@ -1,7 +1,7 @@
 # AlgoJam
 
-![GitHub issues](https://img.shields.io/github/issues/noobDevelopers/playWithMIPS)
-![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/noobDevelopers/playWithMIPS)
+![GitHub issues](https://img.shields.io/github/issues/noobDevelopers/AlgoJam)
+![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/noobDevelopers/AlgoJam)
 
 
 Now learn basic data structure in a fun way....in the noob way!!!
