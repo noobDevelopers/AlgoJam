@@ -2,7 +2,7 @@
 
 ![GitHub issues](https://img.shields.io/github/issues/noobDevelopers/playWithMIPS)
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/noobDevelopers/playWithMIPS)
-![MIPS](https://img.shields.io/badge/-DS-Algo-blue)
+
 
 Now learn basic data structure in a fun way....in the noob way!!!
 # Description
