@@ -18,12 +18,18 @@ int main()
 
     int search_element;
     //Take the input of the element to be searched by the user.
+	cout<<"Enter the search element"<<endl;
+	cin>>search_element;
 
 
     int result = linear_search(arr,size,search_element);
 
     //If the result is -1 then print that the element is not present in the array.
     //If the result is any value but -1 then print the element is found on that index.
+	if(result==-1)
+		cout<<"Element not found"<<endl;
+	else
+		cout<<"Element found at index "<<i<<endl;
 
     return 0;
 
