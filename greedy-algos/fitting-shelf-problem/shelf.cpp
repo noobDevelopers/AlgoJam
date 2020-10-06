@@ -18,7 +18,6 @@ void minSpace(int wall, int m, int n)
             num_n = q; 
             min_empty = rem; 
         } 
-  
         q += 1; 
         wall = wall - n; 
     } 
