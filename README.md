@@ -37,7 +37,7 @@ Let's find out solution for them...
 
    4.Commit your changes: git commit -m 'Add some feature'.
 
-   5.Push to the main branch
+   5.Push to the noob branch
 
    7.Submit a pull request 😄
 
