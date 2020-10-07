@@ -18,13 +18,17 @@ int main()
 
     int search_element;
     //Take the input of the element to be searched by the user.
+	scanf("%d",&search_element);
 
 
     int result = linear_search(arr,size,search_element);
 
     //If the result is -1 then print that the element is not present in the array.
+	if(result==-1)
+		printf("element not found\n");
     //If the result is any value but -1 then print the element is found on that index.
-
+	else
+		printf("element found at index %d",result);
     return 0;
 
 }
